@@ -1,4 +1,4 @@
-# E07a-Save-and-Load    
+# E07a-Save-and-Load Allie Brock MSCH-C220 Spring 2020    
 
 This is an opportunity for you to practice the simplest form of saving state in Godot, saving to a config file.
 

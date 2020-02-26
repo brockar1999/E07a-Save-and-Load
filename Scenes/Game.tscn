@@ -46,6 +46,9 @@ custom_colors/font_color = Color( 0.431373, 0.431373, 0.431373, 1 )
 text = "-"
 align = 1
 valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
 
 [node name="AddButton" type="TextureButton" parent="Buttons"]
 margin_left = 502.287
